@@ -1,0 +1,1 @@
+he News Reader App is a mobile application designed to display the latest and updated news articles. It fetches real-time news data from a news API and presents it in a clean, easy-to-read layout for users. The app allows users to stay informed about current events, technology, sports, entertainment, and more.
